@@ -11,7 +11,7 @@ We also include AllSides' neutral description of the topic of the articles.
 Overall, the dataset contains 10,273 articled tagged as left, 7,222 tagged as right and 4,252 articles tagged as center.
 To provide an easier access to the most recent and complete version of the dataset for future research, we provide the scraping tool described earlier in this section.
 
-Data was scraped on 22-12-15 from [https://www.allsides.com/headline-roundups](https://www.allsides.com/headline-roundups).
+Data was scraped on 2022-12-15 from [https://www.allsides.com/headline-roundups](https://www.allsides.com/headline-roundups).
 
 ## suggestions.csv 
 The second dataset we provide consists of 671,669 search query suggestions for root queries based on tags of the AllSides biased news dataset. 
